@@ -37,7 +37,7 @@ open_in_new: true
 # Miscellaneous
 google_analytics: ''
 favicon: /assets/img/favicon.ico
-
+appletouch: /assets/blogImg/litten.png
 #你的头像url
 avatar: /assets/blogImg/litten.png
 
